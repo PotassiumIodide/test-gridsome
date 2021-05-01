@@ -6,5 +6,13 @@
 
 module.exports = {
   siteName: 'Gridsome',
+  // icon: {
+  //   favicon: "./src/favicon.ico",
+  //   touchicon: {
+  //     src: "./src/favicon.ico",
+  //     sizes: [76, 152, 120, 167],
+  //     precomposed: true,
+  //   },
+  // },
   plugins: []
 }
